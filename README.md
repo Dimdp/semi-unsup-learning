@@ -3,7 +3,7 @@ From the paper (https://arxiv.org/abs/1511.06390)
 
 Training a Discriminative Classifier using small labaled data and big unlabaled data. <br />
 This notebook implements a Categorical Gan for MNIST data. <br />
-Using 100 labeled data and 59900 unlabaled data we acould achieve 95% of accuracy on the test set. <br />
+Using 100 labeled data and 59900 unlabaled data we could get 95% of accuracy on the test set. <br />
 
 
 
