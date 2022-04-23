@@ -6,9 +6,9 @@ Using 100 labeled data and 59900 unlabaled data we could get 95% of accuracy on 
 
 The algorithm is described in this paper:
 
-@inproceedings{
-Author = {Jost Tobias Springenberg},
-Title = {Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks
-},
-Year = {2016}
-}
+    @inproceedings{
+    Author = {Jost Tobias Springenberg},
+    Title = {Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks
+    },
+    Year = {2016}
+    }
